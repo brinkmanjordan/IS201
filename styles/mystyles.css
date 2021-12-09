@@ -1,0 +1,22 @@
+body {
+    background-image: url(../images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg)
+    
+}
+
+.black-font{
+    color:rgba(38, 38, 39, 0.90)
+}
+
+.font-light{
+    font-weight: lighter;
+
+}
+
+.font-bold{
+    font-weight: 500;
+}
+
+.font-italic{
+    font-style: italic;
+
+}

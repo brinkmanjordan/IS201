@@ -1,0 +1,21 @@
+header{
+    background-color: white;
+}
+
+body {
+    background-image: url(../images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg)
+}
+.font-family {
+    font-family: "Tahoma"
+}
+.font-white {
+    color: white
+}
+
+.font-black {
+    color:black
+}
+
+footer{
+    background-color: white
+}
